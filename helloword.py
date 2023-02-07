@@ -3,5 +3,7 @@ print("Hello Word!", "I want this to be on the same line as the one above", sep=
 print("I want this to be on the same line as the one above")
 print("Hello Word!", "I want this to be on the same line as the one above", sep="anything")  # copy paste 1
 print("new stuffss")
+print(7*7)
+
 
 
